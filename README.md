@@ -1,2 +1,2 @@
 # Budget-Tracker
-Online Offline Budget Tracker
+Online/Offline Budget Tracker
