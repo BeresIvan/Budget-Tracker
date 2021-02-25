@@ -36,3 +36,8 @@ THEN that will be shown on the page, and added to their transaction history when
 * Our main application folder also containes .env, .gitignore, paackage-lock.json, package.json, REAEDME.md and the server.js files. https://github.com/BeresIvan/Budget-Tracker
 
 ## Current Status 
+* The app has been deployed on heroku
+* The app was troubelshooted using Mongo DB Atlas, Mongo DB compass and the html console.
+* Acceptable Lighthouse score
+
+![offline] ()
