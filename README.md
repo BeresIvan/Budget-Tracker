@@ -25,3 +25,11 @@ Giving users a fast and easy way to track their money is important, but allowing
 GIVEN a user is on Budget App without an internet connection
 WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
+
+## Table of contents
+* The models folder containing the transaction.js file https://github.com/BeresIvan/Budget-Tracker/tree/main/models
+* The node modules folder with the modules
+* The public folder includes the Assets folder, Icons Folder, db.js, index.html, index.js, manifest.webmanifest , service-worker.js and the style.css files. https://github.com/BeresIvan/Budget-Tracker/tree/main/public
+* The routes folder containes the api.js folder https://github.com/BeresIvan/Budget-Tracker/tree/main/routes
+* Our main application folder also containes .env, .gitignore, paackage-lock.json, package.json, REAEDME.md and the server.js files. https://github.com/BeresIvan/Budget-Tracker
+
