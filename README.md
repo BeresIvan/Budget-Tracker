@@ -1,6 +1,8 @@
 # Budget-Tracker
 Online/Offline Budget Tracker
 
+![offline](https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/Budget-Tracker.jpg)
+
 ## The Project
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
@@ -33,3 +35,4 @@ THEN that will be shown on the page, and added to their transaction history when
 * The routes folder containes the api.js folder https://github.com/BeresIvan/Budget-Tracker/tree/main/routes
 * Our main application folder also containes .env, .gitignore, paackage-lock.json, package.json, REAEDME.md and the server.js files. https://github.com/BeresIvan/Budget-Tracker
 
+## Current Status 
