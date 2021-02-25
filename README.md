@@ -40,9 +40,9 @@ THEN that will be shown on the page, and added to their transaction history when
 * The app was troubelshooted using Mongo DB Atlas, Mongo DB compass and the html console.
 * Acceptable Lighthouse score
 
-![oofline] (https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/mongodbAtlas.jpg)
+![offline](https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/mongodbAtlas.jpg)
 
-![offline] (https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/lighthouse.jpg)
+![offline](https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/lighthouse.jpg)
 
 ## Installation  
 - Go to the heroku page by following the link:  to use the app. https://pure-wave-87426.herokuapp.com/
