@@ -40,4 +40,29 @@ THEN that will be shown on the page, and added to their transaction history when
 * The app was troubelshooted using Mongo DB Atlas, Mongo DB compass and the html console.
 * Acceptable Lighthouse score
 
-![offline] ()
+![oofline] (https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/mongodbAtlas.jpg)
+
+![offline] (https://github.com/BeresIvan/Budget-Tracker/blob/main/public/assets/lighthouse.jpg)
+
+## Installation  
+- Go to the heroku page by following the link:  to use the app. https://pure-wave-87426.herokuapp.com/
+- to further develope go to the github repository: https://github.com/BeresIvan/Budget-Tracker
+- Clone the repository using the "git clone" command in the command line.
+- Open the files in visual studio code using the ". code" command in the command line.
+- Install the modules and dependencies using the npm install command.
+- Start the app by using the "node server.js" command.
+ 
+ 
+## Acknowledgment 
+The project was created by using:
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git Bash](https://gitforwindows.org/index.html)
+* [GitHub](https://github.com/join)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Moment.js](https://momentjs.com)
+* [Fontawesome](https://fontawesome.com/)
+* [NPM](https://www.npmjs.com/)
+* [Screencastify](https://www.screencastify.com)
+* [heroku](https://www.heroku.com)
+* [mongodbAtlas](https://www.mongodb.com/cloud/atlas)
